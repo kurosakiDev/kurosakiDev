@@ -30,7 +30,7 @@
   
   <h3 style="color: #6ce5e8;">Connect With Me</h3>
   <p>
-    <a href="https://instagram.com/w45hr" style="text-decoration: none;">
+    <a href="https://instagram.com" style="text-decoration: none;">
       <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-6ce5e8?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   </p>
